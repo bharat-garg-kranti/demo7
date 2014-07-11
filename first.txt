@@ -6,3 +6,4 @@ this is my 4th line in feature1
 this is my firstb line in feature 2
 fixbug
 1234
+789
