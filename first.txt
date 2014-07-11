@@ -3,3 +3,5 @@ this is my firstb line in feature1
 this is my 2nd line in feature1
 this is my 3nd line in feature1
 this is my 4th line in feature1
+this is my firstb line in feature 2
+fixbug
